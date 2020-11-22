@@ -17,7 +17,7 @@ We used Genetic Algorithms to solve this problem. The walkthrough of our code ha
 
 <b>Step 2</b>: Preprocess the data
 
-//Embed f15,f14,f13
+
 <div id="f2"></div>
 <div id="f3"></div>
 <div id="f4"></div>
