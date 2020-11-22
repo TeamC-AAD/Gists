@@ -12,7 +12,7 @@ We used Genetic Algorithms to solve this problem. The walkthrough of our code ha
 
 <b>Step 1</b>: Import the libraries
 
-//Embed f16
+
 <div id="f1"></div>
 
 <b>Step 2</b>: Preprocess the data
@@ -24,15 +24,12 @@ We used Genetic Algorithms to solve this problem. The walkthrough of our code ha
 
 <b>Step 3</b>: Define fitnesss function. The fitness function for a given set of chromosomes is defined as follows:
 
-<img src="http://www.sciweavers.org/upload/Tex2Img_1605900223/render.png">
-<img src="http://www.sciweavers.org/upload/Tex2Img_1605900540/render.png">
 
-//Embed f12
 <div id="f5"></div>
  
 <b>Step 4</b>: Run using our Library! The results after a few convergences in generations have been shown below:
 
-// Embed f11
+
 <div id="f6"></div>
 
 ```bash
