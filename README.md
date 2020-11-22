@@ -12,12 +12,13 @@ We used Genetic Algorithms to solve this problem. The walkthrough of our code ha
 
 <b>Step 1</b>: Import the libraries
 
-//Embed f2
-<div id="f2"></div>
+//Embed f16
+<div id="f1"></div>
 
 <b>Step 2</b>: Preprocess the data
 
-//Embed f3,f4
+//Embed f15,f14,f13
+<div id="f2"></div>
 <div id="f3"></div>
 <div id="f4"></div>
 
@@ -26,12 +27,18 @@ We used Genetic Algorithms to solve this problem. The walkthrough of our code ha
 <img src="http://www.sciweavers.org/upload/Tex2Img_1605900223/render.png">
 <img src="http://www.sciweavers.org/upload/Tex2Img_1605900540/render.png">
 
-//Embed f5
+//Embed f12
 <div id="f5"></div>
  
 <b>Step 4</b>: Run using our Library! The results after a few convergences in generations have been shown below:
 
-// Embed f6
+// Embed f11
 <div id="f6"></div>
 
-<img src="https://i.ibb.co/LQJ8Ht6/Screen-Shot-2020-11-20-at-20-12-22.png" alt="Screen-Shot-2020-11-20-at-20-12-22" border="0">
+```bash
+Iter Number: 14
+Best individual: [64. 73. 90. 84. 74. 21. 67. 35. 40. 24. 81. 69. 26. 55. 25. 68. 57. 59.
+ 47. 87. 38. 82.  0. 44. 76. 33. 92. 32. 13. 52. 79. 78. 85.  9. 72. 20.
+ 66. 49. 22. 65. 62.  7.  4. 89. 96. 17. 11. 15.  2. 93.]
+Best fitness: 734.5108830937046
+```
