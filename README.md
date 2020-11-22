@@ -13,10 +13,13 @@ We used Genetic Algorithms to solve this problem. The walkthrough of our code ha
 <b>Step 1</b>: Import the libraries
 
 //Embed f2
+<div id="f2"></div>
 
 <b>Step 2</b>: Preprocess the data
 
 //Embed f3,f4
+<div id="f3"></div>
+<div id="f4"></div>
 
 <b>Step 3</b>: Define fitnesss function. The fitness function for a given set of chromosomes is defined as follows:
 
@@ -24,9 +27,11 @@ We used Genetic Algorithms to solve this problem. The walkthrough of our code ha
 <img src="http://www.sciweavers.org/upload/Tex2Img_1605900540/render.png">
 
 //Embed f5
+<div id="f5"></div>
  
 <b>Step 4</b>: Run using our Library! The results after a few convergences in generations have been shown below:
 
-<div id="#f6"></div>
+// Embed f6
+<div id="f6"></div>
 
 <img src="https://i.ibb.co/LQJ8Ht6/Screen-Shot-2020-11-20-at-20-12-22.png" alt="Screen-Shot-2020-11-20-at-20-12-22" border="0">
